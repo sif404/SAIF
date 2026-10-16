@@ -1,7 +1,7 @@
-# Saif Mutlq
+# Saif Mutlaq
 ### IoT Engineering Student | AIoT • Smart Cities • Digital Twins • Embedded Systems
 
-Computer Engineering / Internet of Things student at **Jordan University of Science and Technology (JUST)**, interested in turning research ideas into practical, demonstrable technology. My work spans IoT systems, intelligent infrastructure, web and mobile prototypes, and technical education.
+Internet of Things engineering student at **Jordan University of Science and Technology (JUST)**, interested in turning research ideas into practical, demonstrable technology. My work spans IoT systems, intelligent infrastructure, web and mobile prototypes, and technical education.
 
 -  **B.Sc. in Internet of Things**, JUST — expected February 2027
 -  **1st place**, Phase 1 of the SJYP 2026 Hackathon (Tourism Track)
